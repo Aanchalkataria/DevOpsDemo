@@ -1,1 +1,2 @@
 file 2
+adding contents remotely to the file 2
